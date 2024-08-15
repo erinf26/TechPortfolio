@@ -1,0 +1,86 @@
+.gradient-banner {
+    background: linear-gradient(to right, #5de0e6, #004aad);
+    padding: 50px 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.content-box {
+    background-color: white;
+    padding: 20px;
+    max-width: 500px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.content-box h1 {
+    margin-bottom: 20px;
+    color: #004aad;
+}
+
+.content-box p {
+    color: #333;
+    font-size: 1.1em;
+}
+
+.download-buttons {
+    margin-top: 20px;
+}
+
+.download-buttons .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #004aad;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.download-buttons .btn:hover {
+    background-color: #5de0e6;
+}
+
+.resume-section {
+    padding: 40px 20px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+
+.resume-section img.section-icon {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+}
+
+.resume-section h2 {
+    color: #004aad;
+    margin-bottom: 0;
+}
+
+.resume-section .section-content {
+    flex: 1;
+    padding-left: 20px;
+    font-size: 1.1em;
+    color: #333;
+}
+  
+.education-section {
+    background: linear-gradient(to right, #5de0e6, #004aad);
+    color: white;
+    justify-content: flex-end;
+    text-align: right;
+}
+  
+.education-section h2 {
+    color: white;
+}
+  
+.education-section .section-content {
+    padding-right: 20px;
+}
+  

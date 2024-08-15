@@ -214,4 +214,6 @@ dist/
 
 # Other - i.e., assets
 *.mp4 
-
+*.png
+*.pdf
+*.docx
