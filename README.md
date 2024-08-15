@@ -35,3 +35,16 @@ change the line of code (be it for color, font, image, content, etc.) to make yo
     npm start
 - Start the Node.js backend server
     npm run server
+
+
+### Note: References
+I want to acknowledge a couple of really great articles I used to develop my portfolio website. 
+
+Back-end:
+
+Front-end:
+
+Design:
+Liew, Zell. "The Best Font Loading Strategies and How to Execute Them", CSS Tricks (https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/#loading-fonts-with-self-hosted-fonts). This article reiterates a lesson I've learned, that self-hosting fonts is a much better approach than using a cloud-based provider. However, self-hosting costs $$$ (though there are places to get font bundles for cheap) and a portfolio isn't typically too dynamic/interactive, so for now, this template shows how to load fonts from the cloud (specifically, Google Fonts).
+
+
