@@ -211,3 +211,7 @@ dist/
 # Temporary files
 *.tmp
 *.temp
+
+# Other - i.e., assets
+*.mp4 
+

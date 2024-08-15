@@ -1,0 +1,46 @@
+.top-banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    padding: 20px 20px 10px;
+    width: 100%;
+  }
+  
+  .logo-container {
+    text-align: center;
+  }
+  
+  .logo {
+    height: 100px;
+  }
+  
+  .navbar-container {
+    margin-top: 10px;
+    width: 100%;
+  }
+  
+  .navbar {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 30px; /* Adds space between the links */
+  }
+  
+  .navbar li {
+    margin: 0;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: #004aad;
+    font-weight: bold;
+    font-size: 1.1em;
+  }
+  
+  .navbar a:hover {
+    color: #5de0e6;
+  }
+  
