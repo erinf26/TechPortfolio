@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './TopBar.css';
-import logoAnimated from './assets/logo_animated.mp4';
+import logoAnimated from '../assets/logo_animated.mp4'; 
 
 function TopBar() {
   return (

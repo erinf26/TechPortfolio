@@ -1,10 +1,10 @@
 import React from 'react';
 import './Resume.css';
-import profIcon from './assets/prof.png';
-import eduIcon from './assets/edu.png';
-import skillsIcon from './assets/skill.png';
-import pdfResume from './assets/Resume.pdf';
-import docResume from './assets/Resume.docx';
+import profIcon from '../assets/prof.png';
+import eduIcon from '../assets/edu.png';
+import skillsIcon from '../assets/skill.png';
+import pdfResume from '../assets/Resume.pdf';
+import docResume from '../assets/Resume.docx';
 
 function Resume() {
     return (
