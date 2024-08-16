@@ -17,6 +17,7 @@ function TopBar() {
           <li><Link to="/projects">Projects</Link></li>
           <li><Link to="/blog">Blog</Link></li>
           <li><a href="https://www.linkedin.com/in/erin-foley-yale" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+          <li><a href="https://github.com/erinf26" target="_blank" rel="noopener noreferrer">GitHub</a></li>
         </ul>
       </div>
     </div>

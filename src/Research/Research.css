@@ -1,0 +1,84 @@
+.gradient-banner {
+    background: linear-gradient(to right, #5de0e6, #004aad);
+    padding: 50px 0;
+    text-align: center;
+    color: white;
+}
+
+.content-box {
+    background-color: white;
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.content-box h1 {
+    margin-bottom: 10px;
+    font-size: 2.5em;
+}
+
+.content-box p {
+    font-size: 1.2em;
+}
+
+.research-section {
+    margin-bottom: 40px;
+}
+
+.title-and-logo {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.title-and-logo h2 {
+    margin-left: 15px;
+    font-size: 1.8em;
+    color: #004aad;
+}
+
+.research-logo {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.research-image,
+.research-video {
+    max-width: 100px;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.research-links {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 10px;
+}
+
+.research-links li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.research-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #004aad;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    transition: background-color 0.3s ease;
+}
+
+.research-button:hover {
+    background-color: #5de0e6;
+}
+
+.research-description {
+    max-width: 80%;
+    margin-bottom: 20px;
+}
